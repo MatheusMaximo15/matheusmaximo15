@@ -9,6 +9,8 @@
 <div style="display: inline_block"><br>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <a href="https://nodejs.org/en/docs">
+  <img align="center" alt="Matheus-Node" height="30" width="50" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   
   
 
