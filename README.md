@@ -4,7 +4,7 @@
  <div>
   <a href="https://github.com/matheusmaximo15">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmaximo15&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmaximo15&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 <div style="display: inline_block"><br>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
